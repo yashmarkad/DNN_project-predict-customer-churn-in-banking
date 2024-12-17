@@ -1,1 +1,1 @@
-# DNN_project-predict-customer-churn-in-banking
+the model is predict whether or not the customer left the bank.
